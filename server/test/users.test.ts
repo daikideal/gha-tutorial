@@ -10,6 +10,7 @@ describe("/users", () => {
           [
             {name: "George", email: "george@example.com"},
             {name: "Fred", email: "fred@example.com"},
+            {name: "Andy", email: "andy@example.com"},
           ],
         );
 
